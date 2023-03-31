@@ -1,3 +1,5 @@
 n = int(input("Input n : "))
+sum = 0
 for i in range(n):
-  print(i+1)
+  sum = sum + (i+1)
+print(sum)
