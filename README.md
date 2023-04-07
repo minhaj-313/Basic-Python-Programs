@@ -1,6 +1,6 @@
 # Basic-Python-Programs
 
-
+<i>Our Python Code Repository is a community-driven platform for sharing high-quality Python programs. With contributions from members of the community, our repository contains a collection of Python codes for others to learn from and use. We welcome contributions from anyone who wants to share their code and follow our guidelines. Our moderators review all pull requests to ensure the quality and consistency of our repository. Join our community and contribute to creating a valuable resource for Python developers worldwide.</i></br>
 ## How to Contribute
 
 1. Fork the repository to your GitHub account.
@@ -51,11 +51,14 @@ Ex- if you have modified mid_index calculation to mid_index=start+(end-start)//2
 mid_index=start+(end-start)//2
 ```
 Commit message for the same would be:
-```Mid integer overflowing avoided```
+```Mid integer overflowing avoided```</br>
 Extended (optional) description could be:
 ```The benefit of this formula is that it avoids integer overflow when calculating the midpoint index for large values of start and end.
-In the formula mid = (start + end) / 2, if start and end are large integers, adding them may exceed the maximum value that can be stored in an integer variable, leading to integer overflow and potentially incorrect results.```
+In the formula mid = (start + end) / 2, if start and end are large integers, adding them may exceed the maximum value that can be stored in an integer variable, leading to integer overflow and potentially incorrect results.
+```
 
 - Include documentation for new features.
 
 <h4>If you have any questions or need help with contributing to the project, please reach out to us via GitHub issues</h4>
+
+<i><h3>We welcome any feedback, suggestions, or contributions to our project. Please feel free to reach out to us if you have any questions or would like to contribute.</h3></i>
