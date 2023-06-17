@@ -1,7 +1,7 @@
 import random
 a=[]
 n=int(input())
-# Generating 200 random numbers to sort
+# Generating n random numbers between 0 and 200 to sort
 for i in range (n):
     a.append(random.randint(0,200))
 
